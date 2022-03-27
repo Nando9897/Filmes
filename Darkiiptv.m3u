@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/g0UPcVwhRtlLhNRowM324o7UJ1f.jpg",  Sing 2
-https://www.googleapis.com/drive/v3/files/1jBIS4bPEC3Ti0FJ3bRrJ5naMpiKZoGHI?alt=media&key=AIzaSyD_JJvls2ZfOH1BzjMnw6GobxFDeqE2bsc
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/dC0f3uld9Ea51QzlLleSFxWy2Hw.jpg", Bee Movie
-https://www.googleapis.com/drive/v3/files/1Xj5ohLTn-1NcY-EkWPNSHBA5PDczCIKW?alt=media&key=AIzaSyD_JJvls2ZfOH1BzjMnw6GobxFDeqE2bsc
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/hb1dzrqAw8K98jdaLqYUYZsizfH.jpg", Pica Pau
-https://www.googleapis.com/drive/v3/files/1xLWa9Kn9IbcM5X5R9aV7G4BdTBBTFwIr?alt=media&key=AIzaSyD_JJvls2ZfOH1BzjMnw6GobxFDeqE2bsc
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/tWQgAbAWp1Iu0f3dTQnTYnEEpUW.jpg", Epa Cadê o Noé?
-https://www.googleapis.com/drive/v3/files/0Bx0Yv7ODoMfUYndERXYxdnNoSHc?alt=media&key=AIzaSyD_JJvls2ZfOH1BzjMnw6GobxFDeqE2bsc
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/pwTjrBcSFW3uWiheV6ngVQVDTuh.jpg", Perdido pra Cachorro
-https://www.googleapis.com/drive/v3/files/1TYnh64gWuXXSc-2iU7Rduheo05T42dRC?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/XGGblbJN5OTqsspH6BZnOTBILs.jpg", Perdido pra Cachorro 2
-https://www.googleapis.com/drive/v3/files/1RvMYNQLstfwOPTzs9UruKDhpNDIBlIqH?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/hcvzgsNPoS2ImrSkWCRl2bxMdbA.jpg", Perdido pra Cachorro 3
-https://www.googleapis.com/drive/v3/files/1JYMIrZoTwVd2L95WBAGp9VC5AA_x-rls?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
-#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/original/zAC6fCnaOHMpPFpOpngTSmTDnLK.jpg", Encanto
-https://www.googleapis.com/drive/v3/files/1vKoKQc9U5auanvCvclFlOD-udtGmBFXF?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/og4GvSmw3qwiBK8eJF2Txcncian.jpg",Indiana Jones 1 : Os Caçadores da Arca Perdida
+https://www.googleapis.com/drive/v3/files/1_y2kkMAku3PXEK03wRQxd30GxAJq_CWg?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/rAAruJ0hAad7dgkamxh8sKTaiRs.jpg", Indiana Jones 2 : O Templo da Perdição
+https://www.googleapis.com/drive/v3/files/1znAPT0AY2LRTd3pgZtCj21Rubo5sbvqX?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg", Indiana Jones 3 : A Ultima Cruzada 
+https://www.googleapis.com/drive/v3/files/1Qfmvpn2UEisi2s1zZ13IDHwnmtJ-w-_Z?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
+#EXTINF:-1 group-title="Aventura" tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/y1gGYQ33CNVpo9mmxmkrUUmANwf.jpg", Indiana Jones 4 : O Reino da Caveira de Cristal 
+https://www.googleapis.com/drive/v3/files/1BqnDg6OLMJJfqwP52aLtDdZsRm23nK1l?alt=media&key=AIzaSyC9-9UhthE3vXy4Fmq1xDylU9EYFRgGi0o
+#EXTINF:-1 group-title="Animação" tvg-logo="https://www.themoviedb.org/t/p/w440_and_h660_face/zlXAfUwE3CRzB9TbrwvmQLlAf6L.jpg", Bons de Bico 
+https://www.googleapis.com/drive/v3/files/1Dr1DgRvxQ2aRb6MtvvP7NOFBVx8Sc_S1?alt=media&key=AIzaSyBvle59ZZYrRYAQkbuE9XYptqhvgG2uwvw
 #EXTINF:-1 group-title="Animação" tvg-logo=""
 
 #EXTINF:-1 group-title="Animação" tvg-logo="",
